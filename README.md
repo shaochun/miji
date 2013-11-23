@@ -1,5 +1,5 @@
 miji
 ====
 
-Lua Component-based System for games.
+Lua Component-based System for Games.
 
