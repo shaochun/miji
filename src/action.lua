@@ -1,1 +1,1 @@
-不用另外寫 Action
+Not using here.
